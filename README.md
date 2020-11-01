@@ -12,8 +12,7 @@ As bibliotecas utilizadas foram:
 - [Dask](https://dask.org/)
 - [Pyspark](https://spark.apache.org/docs/latest/api/python/index.html)
 
-**Notebook**
-[Jupyter Notebook](https://github.com/jcpsantos/performance_test_dataframes/blob/master/performance_test_read_dataframes.ipynb)
+[**Notebook**](https://github.com/jcpsantos/performance_test_dataframes/blob/master/performance_test_read_dataframes.ipynb)
 
 O segundo teste realizado foi de uma pequena analise de um datafram em **parquet** com as seguintes caracteristicas:
 - **Tamanho: 193MB**
@@ -27,8 +26,7 @@ As bibliotecas utilizadas foram:
 - [Dask](https://dask.org/)
 - [Pyspark](https://spark.apache.org/docs/latest/api/python/index.html)
 
-**Notebook**
-[Jupyter Notebook](https://github.com/jcpsantos/performance_test_dataframes/blob/master/performance_test_read_dataframes_parquet.ipynb)
+[**Notebook**](https://github.com/jcpsantos/performance_test_dataframes/blob/master/performance_test_read_dataframes_parquet.ipynb)
 
 ## Gráfico de Performance
 ![alt text](https://github.com/jcpsantos/performance_test_dataframes/blob/master/path/versao_parquet.png)
