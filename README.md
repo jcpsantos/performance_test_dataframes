@@ -28,5 +28,5 @@ As bibliotecas utilizadas foram:
 
 [**Notebook**](https://github.com/jcpsantos/performance_test_dataframes/blob/master/performance_test_read_dataframes_parquet.ipynb)
 
-## Gráfico de Performance
+## Gráfico de Performance (Arquivo Parquet)
 ![alt text](https://github.com/jcpsantos/performance_test_dataframes/blob/master/path/versao_parquet.png)
