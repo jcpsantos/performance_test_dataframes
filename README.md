@@ -14,7 +14,7 @@ As bibliotecas utilizadas foram:
 
 [**Notebook**](https://github.com/jcpsantos/performance_test_dataframes/blob/master/performance_test_read_dataframes.ipynb)
 
-O segundo teste realizado foi de uma pequena analise de um datafram em **parquet** com as seguintes caracteristicas:
+O segundo teste realizado foi de uma pequena analise de um dataframe em **parquet** com as seguintes caracteristicas:
 - **Tamanho: 193MB**
 - **Total de Colunas: 23**
 - **Total de Linhas: 2688711**
