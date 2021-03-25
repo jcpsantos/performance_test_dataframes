@@ -22,7 +22,7 @@ O segundo teste realizado foi de uma pequena analise de um dataframe em **parque
 As bibliotecas utilizadas foram:
 - [Pandas](https://pandas.pydata.org/)
 - [Modin](https://modin.readthedocs.io/en/latest/)
-- [Koala](https://koalas.readthedocs.io/en/latest/getting_started/install.html)
+- [Koalas](https://koalas.readthedocs.io/en/latest/getting_started/install.html)
 - [Dask](https://dask.org/)
 - [Pyspark](https://spark.apache.org/docs/latest/api/python/index.html)
 
